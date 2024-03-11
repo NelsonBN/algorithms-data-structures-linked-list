@@ -23,3 +23,12 @@ graph LR
     E --> F[Node]
     F --> G[Node]
 ```
+
+## Demos:
+- [Singly Linked List](./src/singly_linked_list.py)
+- [Singly Linked List Operations](./src/singly_linked_list_operations.py)
+- [Singly Linked List Operations Optimized](./src/singly_linked_list_operations_optimized.py)
+- [Rotate Linked List](./src/rotate_linked_list.py)
+- [Fast and Slow Pointer](./src/fast_and_slow_pointer.py)
+- [Identifying Cycles](./src/identifying_cycles.py)
+- [Floyd Cycle](./src/floyd_cycle.py)
