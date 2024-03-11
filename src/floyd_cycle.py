@@ -50,7 +50,7 @@ node1_5.next = node1_6
 node1_7 = Node(80)
 node1_6.next = node1_7
 
-node1_5.next = node1_3
+node1_5.next = node1_3 # Cycle
 
 
 
