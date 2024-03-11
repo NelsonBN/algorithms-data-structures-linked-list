@@ -32,3 +32,7 @@ graph LR
 - [Fast and Slow Pointer](./src/fast_and_slow_pointer.py)
 - [Identifying Cycles](./src/identifying_cycles.py)
 - [Floyd Cycle](./src/floyd_cycle.py)
+
+### Rotating a Linked List
+
+![Rotate Linked List](./media/reversing_linked_list.webp)
