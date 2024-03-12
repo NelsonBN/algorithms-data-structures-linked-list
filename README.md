@@ -36,3 +36,7 @@ graph LR
 ### Rotating a Linked List
 
 ![Rotate Linked List](./media/reversing_linked_list.webp)
+
+
+## References
+- [Other algoritmos & Data Structures](https://github.com/NelsonBN/algorithms-data-structures)
